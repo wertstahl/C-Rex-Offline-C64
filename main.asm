@@ -162,7 +162,9 @@ ret_f_ttl   sei
             sta   $d01a
             sta   $dc0d
 
-            sta   $dc0e        ; Set TOD Clock Frequency to 60Hz
+            lda   #$80         ; http://codebase64.org/doku.php?id=base:initialize_tod_clock_on_all_platforms
+            sta   $dc0e        ; Set TOD Clock Frequency to 50Hz (we always assume PAL)
+            lda   #$00
             sta   $dc0f        ; Enable Set-TOD-Clock
             sta   $dc0b        ; Set TOD-Clock to 0 (hours)
             sta   $dc0a        ; - (minutes)
