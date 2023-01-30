@@ -1,0 +1,431 @@
+
+******* 344 Label(s) *******
+2ndrun = $209E 
+a_jumpdo = $0A35 
+a_normldo = $0A32 
+abortintro = $C0A7 
+andelwait = $0F30 
+anim_dinos = $0F34 
+animdelay = $0F2F 
+announcer = $2599 
+announcespd = $2598 
+ascenddino = $0EA7 
+birdbit = $21A6 
+birdbuffer1 = $21C2 
+birdbuffer2 = $2242 
+c_collided = $2408 
+c_easyout = $2423 
+c1inversehi = $26FB 
+c2inversehi = $27A5 
+calcscore = $250C 
+cbl_dark = $20BC 
+cblbit = $20B3 
+cbmold = $27B8 
+cd_direct = $239F 
+cd_ducked = $23A2 
+cd_xdirect = $23D3 
+cd_xducked = $23D6 
+checkhiscor = $25BF 
+checkjoy = $0E02 
+checkjoy2 = $0E1C 
+chkj2_dn = $0E71 
+chkj2_exhld = $0E5C 
+chkj2_exit = $0E5B 
+chkj2_new = $0E32 
+chkj2_up = $0E60 
+cl1hivis = $26E4 
+cl1nounder = $2683 
+cl2hivis = $278E 
+cl2nounder = $272D 
+cloud1ishi = $26DC 
+cloud1x = $2658 
+cloud1xhi = $2657 
+cloud2ishi = $2786 
+cloud2x = $265B 
+cloud2xhi = $265A 
+cloudmeister = $265C 
+clr = $0DB7 
+clr_tibas = $C02E 
+clrcol = $0DCA 
+cls = $0DB5 
+coll2end = $2406 
+collision2 = $238C 
+color_coat = $C173 
+color_ladder = $C186 
+combsand = $0C02 
+conbloop = $20C1 
+connbl_out = $20C7 
+connblink = $209F 
+conpreloop = $20BE 
+copybird1 = $21AC 
+copybird2 = $21B8 
+copyhi = $25BD 
+cvwait1 = $C1EC 
+cvwait2 = $C20D 
+cvwait3 = $C1F3 
+cvwait4 = $C214 
+cwfill1 = $C1E4 
+cwfill2 = $C205 
+cwignor1 = $C203 
+cycles = $0FDB 
+d_intheair = $0A97 
+debnc_spc = $0931 
+des_torm = $0D92 
+descendino = $0EC0 
+desertfirst = $0D90 
+desertile = $2C00 
+desertlate = $0D48 
+desrtscroll = $0B5C 
+destroy = $0934 
+dincrouchk = $0F2D 
+dino_stalled1 = $0A50 
+dino2y = $0E8D 
+dino2yread = $0E8B 
+dinobframe = $0F1C 
+dinobfrmes = $0F25 
+dinocontrol = $0E8E 
+dinofalling = $0E8C 
+dinofloored = $0EE1 
+dinoframe = $0F1B 
+dinoframes = $0F1D 
+dinopl2 = $0E92 
+dinopointr = $0F1A 
+dinoytab = $0EFD 
+div8 = $C21A 
+do_desert = $0C00 
+do_sfx = $282F 
+dobeep = $287C 
+dobing = $27BA 
+docloud1 = $2662 
+docloud2 = $270C 
+dpltscr = $2571 
+dtilecurr = $0D74 
+dtilehi = $0D64 
+dtilelow = $0D58 
+dtilestep = $0D73 
+end_ccheck = $238B 
+end_ladder = $C18B 
+end_sfx = $2843 
+endcl1 = $269D 
+endcl2 = $2747 
+endexit = $287B 
+exit_titles = $C0A7 
+fc_skip = $C1B8 
+fetchlvl = $0C4D 
+finischeck = $C1B0 
+first_run = $0938 
+firstmus = $2802 
+firstrun = $08DD 
+flapbird = $2195 
+font2 = $3800 
+fx_delay = $C1C7 
+fx_dl_in = $C1D3 
+fx_dl_out = $C1D0 
+gapband = $0C3E 
+garry_k = $2409 
+halfsoftx = $2407 
+hiblcnt = $260D 
+hiblink = $260E 
+hiscore = $2500 
+hrz_ntsc = $0B46 
+hrz_short1 = $0B23 
+hrz_short2 = $0B36 
+hurrydesc = $0EC8 
+i_skipmus = $C0DE 
+i_skipmus2 = $C0E3 
+i_smus = $C0E8 
+i_smus2 = $C0ED 
+idle = $0927 
+initbank = $2329 
+initbird1 = $21AA 
+initbird2 = $21B6 
+initsprites = $22C6 
+inter0 = $0A00 
+inter1 = $0A1A 
+inter2 = $0ACC 
+inter3 = $0B09 
+interrupt0 = $09A4 
+interrupt1 = $09A7 
+interrupt2 = $09AA 
+interrupt3 = $09AD 
+introloop = $C0B3 
+intromus = $B000 
+iscrouching = $0F19 
+isfloored = $0F18 
+isnewhi = $25D5 
+isplay = $27B9 
+isrls = $2868 
+issndsw = $27EF 
+joy1last = $0E01 
+joy2_fire = $0E11 
+joy2_uptime = $0E19 
+joy2_uptmax = $0E1A 
+joy2last = $0E1B 
+kbusual = $210A 
+keybl_dark = $2127 
+keybl_out = $213A 
+keyblbit = $211E 
+keyblink = $2100 
+keybloop = $212B 
+keypreloop = $2129 
+lad_cheat = $C19B 
+lad_normell = $C198 
+lastkey = $0937 
+linexyhi = $235E 
+linexylo = $2331 
+lowerdino = $0ECC 
+lptconn = $205B 
+lptscor = $208A 
+mainloop = $0980 
+maxspeed = $2597 
+mean = $0C4C 
+mus_sfx = $27B6 
+mus_sfxlast = $27B7 
+mus_txt = $27C5 
+music = $1000 
+mussfx = $2807 
+nctxend = $2068 
+ninjantsc = $0814 
+nnwait = $084F 
+nnwait1 = $0863 
+nnwait2 = $0868 
+no_dead_pic = $0A8B 
+no_dfprst = $0F58 
+no_dfprst2 = $0F71 
+nocl1hi = $2708 
+nocl2hi = $27B2 
+noclen = $2030 
+noconn = $2010 
+nohurry = $0ECB 
+noobstacle = $0CB6 
+nopl1_anim = $0F5C 
+norls = $2865 
+noscoring = $257C 
+nosndsw = $27EA 
+notcrouching = $0A77 
+nowalk = $28C7 
+ntsc = $081E 
+ntsc_rs = $0B10 
+ntsc_short = $0B24 
+ntscswitch = $0B1C 
+ntscsync = $0B49 
+ntsctop0 = $08C6 
+ntsctop1 = $098E 
+ntsctop2 = $0B3E 
+nuhisc = $25D7 
+onecycle = $0FDA 
+ontheline = $0A99 
+p_musmus = $2823 
+p_mussfx = $280E 
+p_spc_lp = $206D 
+p_spc0 = $2000 
+p_spc1 = $2004 
+p_spc2 = $2008 
+p_spc3 = $200C 
+palntsc = $083E 
+plothiscor = $2601 
+plothud = $2059 
+plotrow = $0CC2 
+plotscor = $256F 
+postdesert = $0B57 
+pr_dinopl2 = $0E98 
+pre_freshhi = $25F4 
+prgstart = $087E 
+print_mus = $2821 
+process_titles = $C083 
+r_nodupl = $0CAA 
+randframe = $0D72 
+randkeep = $0D70 
+randold = $0D71 
+randomizer = $2943 
+randslate = $0D38 
+rastersync = $0FB0 
+reentry = $099E 
+refreshhi = $25FF 
+reinsert = $C0D3 
+resetscore = $08E4 
+restart_le = $08D8 
+ret_f_ttl = $0882 
+rextex = $3500 
+rndcalc = $2942 
+rolloff = $2844 
+rrttii = $087D 
+scorbl_dark = $2159 
+scorbl_out = $2164 
+scorblbit = $214F 
+scorblink = $213B 
+scorbloop = $215D 
+scorbrd = $2031 
+score = $2506 
+scorpreloop = $215B 
+scrldesrt = $0B69 
+scrollspeed = $0B5A 
+sctxend = $2097 
+setpgfnt2 = $0D76 
+setscrncol = $0DAC 
+sfx_jump = $2845 
+sfx_puff = $27BB 
+sfx_smash = $2904 
+sfx_txt = $27BC 
+sfx_walk = $28C8 
+sfxannounce = $296D 
+sfxconfirm = $289D 
+sfxexit = $284A 
+shad_base = $2641 
+shadecols = $2614 
+shadecount = $2642 
+shadepalette = $2622 
+shadman = $2640 
+shocl1 = $26AE 
+shocl2 = $2758 
+simplestep = $28E0 
+skip1 = $0FC2 
+skip2 = $0FCF 
+skipcontrol = $0AB8 
+skiphblcr = $25EF 
+skipi1 = $C0FF 
+skipi2 = $C10C 
+skipretouche = $0AC4 
+skipscroll = $0AAA 
+skycolorz = $2643 
+smashexit = $2941 
+softx = $0B5B 
+soilcolor = $264D 
+soundplay = $27CE 
+speedcup = $2659 
+speedup = $257E 
+speedupdl = $257D 
+spr_stuplp = $22CA 
+spraway = $C048 
+spritegfx = $3000 
+spriteup = $22C2 
+sprx = $2318 
+spry = $2321 
+stepdel = $28C6 
+stick2_d = $0E89 
+stick2_u = $0E8A 
+stick2dnaim = $0F62 
+switchplay = $27FF 
+t_a_analyze = $C125 
+t_a_c_l = $C11E 
+t_a_f_do = $C09B 
+t_a_flicker = $C1E0 
+t_area_clr = $C11A 
+t_elong_i = $C026 
+tfldo = $216C 
+tflend = $217C 
+tflicol = $217D 
+ti_again = $C143 
+ti_cup = $C1C2 
+ti_d_chk = $C164 
+ti_dec = $C155 
+ti_fl_rep = $C10F 
+ti_inc = $C15E 
+ti_next = $C167 
+ti_nextround = $C1BC 
+ti_read = $C145 
+tileshort = $0D75 
+titl_fadin = $C33D 
+titl_fadout = $C335 
+titl_seglen = $C32C 
+titl_seq = $C119 
+titl_speed = $C1C5 
+titl_starth = $C323 
+titl_startl = $C31A 
+titl_storx = $C1C4 
+titl_story = $C1C3 
+titl_times = $C1C6 
+titleflicker = $2165 
+titles = $C000 
+titlesmap = $BB00 
+tools = $0D86 
+trig_space = $0E00 
+updhiblnk = $25F7 
+vwait = $098B 
+waitbird = $2191 
+wastentsc = $0B4B 
+
+******* 33 Unused label(s) *******
+2ndrun
+a_jumpdo
+ascenddino
+birdbit
+cblbit
+cl1hivis
+cl2hivis
+end_ladder
+fc_skip
+font2
+hrz_ntsc
+hurrydesc
+i_skipmus2
+i_smus
+i_smus2
+isplay
+joy1last
+keyblbit
+music
+ninjantsc
+noscoring
+ntsc_rs
+ntscswitch
+ntsctop0
+ntsctop1
+ntsctop2
+prgstart
+scorblbit
+simplestep
+spritegfx
+ti_dec
+tileshort
+vwait
+
+******* 37 Variable(s) *******
+andeltime  = $0005
+birddelay  = $0015
+bottscan  = $00EA
+centerchar  = $0051
+cloud1speed  = $0000
+cloud1xspan  = $0007
+cloud2speed  = $0001
+cloud2xspan  = $0005
+cloudwidth  = $0018
+clschar  = $0020
+clscol  = $00F8
+colorrom  = $D800
+colorwork  = $D990
+connblinkdl  = $0018
+d_intro  = $0001
+d_music  = $0001
+desertcol  = $00F8
+desertsky  = $00F9
+desertsoil  = $00F7
+dinodnmfxr  = $0006
+dinomaxfrm  = $0003
+firstcls  = $00F8
+firstscan  = $0038
+keyblinkdl  = $0007
+keycol  = $00F8
+keyothercol  = $000C
+nmivec  = $0318
+scorblinkdl  = $0011
+scorcol  = $0002
+scorcol2  = $0006
+screenbase  = $0400
+secondscan  = $00AA
+shadval  = $0002
+tgt_c64  = $0001
+titlebase  = $C000
+topscan  = $0004
+workarea  = $0590
+******* 9 Unused variables(s) *******
+centerchar
+colorrom
+colorwork
+d_intro
+d_music
+scorcol
+tgt_c64
+titlebase
+workarea
+
