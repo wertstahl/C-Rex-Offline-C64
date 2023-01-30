@@ -1,9 +1,10 @@
-#C=Rex-Offline
-
-The T-Rex Offline aka Dino Runner, a Google Chrome game, for the C64.
-
-Use CBMprgStudio to compile. www.ajordison.co.uk/
-
-As seen on the bigscreen, released @datastorm 2017, September 1
-
-Enjoy
+#C=Rex-Offline<br>
+<br>
+The T-Rex Offline aka Dino Runner, a Google Chrome game, for the C64.<br>
+<br>
+Use CBMprgStudio to compile. www.ajordison.co.uk/<br>
+<br>
+As seen on the bigscreen, released @datastorm 2017, September 1<br>
+<br>
+Enjoy<br>
+<br>
