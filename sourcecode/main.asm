@@ -553,7 +553,7 @@ inter2      ;------------------------------
       ifdef d_bugging
             dec   $d020
       endif
-            jsr   scorblink         ; blining of score in title screen
+            jsr   scorblink         ; blinking of score in title screen
             jsr   connblink         ; blinking of "no connection"
             jsr   shadecols                     
  ; color theme switchingM
