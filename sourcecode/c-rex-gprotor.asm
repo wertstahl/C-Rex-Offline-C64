@@ -641,7 +641,7 @@ font2
 incbin      "c-rex-chars.bin"
 *=$4000
 rextex      
-incasm      "basescreen.asm"
+incasm      "basescreenold.bin"
 
             ;---------------------------------------------------------------
 
