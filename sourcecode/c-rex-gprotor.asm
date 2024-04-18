@@ -1,3 +1,7 @@
+
+; IMPORTANT NOTE: THE B000 MEMORY OVERWRITE WARNING IS TO BE IGNORED, IT IS JUST BECAUSE TITLES.ASM
+; HAS ITS OWN STARTING ADRESS. NO WORRIES.
+
 ; 
 ; CBMprgStudio 3.10.0+ Syntax 
 ;
@@ -641,7 +645,7 @@ font2
 incbin      "c-rex-chars.bin"
 *=$4000
 rextex      
-incasm      "basescreenold.bin"
+incbin      "basescreenold.bin"
 
             ;---------------------------------------------------------------
 
